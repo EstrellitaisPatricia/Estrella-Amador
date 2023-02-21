@@ -1,0 +1,66 @@
+
+/* The code on lines 3-7 makes the background ofthe header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+
+
+header {
+    background-color: pink;
+    color: white;
+    padding: 100px 13px;
+}
+img {
+    
+    width: 255px;}
+   .baby{
+	border: 1px solid white;
+    padding: 1px;
+    margin: 1px;
+  background-color: pink;
+}
+	
+img {
+}
+.baby2{
+    width: 200px;
+	
+    border: 1px solid white;
+    padding: 1px;
+    margin: 1px;
+}
+
+img {
+} 
+.baby3{
+    width:200px;
+    border:5px solid black;
+    padding: 3px;
+    margin: 3px;
+
+}
+img {
+}
+.baby4{
+	width:200px;
+    border: 5px solid black;
+    padding: 3px;
+    margin: 3px;
+}
+
+img {
+}
+.baby5{
+	width: 200px; 
+    border: 5px solid black;
+    padding: 3px;
+    margin: 3px;
+}
+
+img {
+}
+.baby6{
+	width:230px; 
+    border: 1px solid white;
+    padding: 3px; 
+    margin: 3px;
+    
+}
+
